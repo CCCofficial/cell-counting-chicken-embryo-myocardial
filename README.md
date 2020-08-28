@@ -1,2 +1,2 @@
-# Computational Approach to Cell Counting in the Cardiac Tissues of Chicken Embryos
+# Cell Counting in the Cardiac Tissues of Chicken Embryos
 A computational approach to cell counting is studied to investigate the cell proliferation in the confocal immunofluorescence images of cardiac tissues of chicken embryos. The image dataset consists of a total of 15 three-dimensional image stacks. Each stack is made of 30 slices where each slice is a single channel with dimension 512×512 pixels. The nuclei are arranged in the stack in such a fashion that if one takes the maximum projection of the slices, almost all of the nuclei remain fairly visible in the projected view, which means that the nuclei can be identified, and counted, in the 2D view.
